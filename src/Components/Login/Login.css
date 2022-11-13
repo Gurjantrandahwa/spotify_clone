@@ -1,0 +1,25 @@
+
+.login {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.logo {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+
+}
+
+.login a {
+    text-decoration: none !important;
+}
+
+.login Button {
+    background-color: #1db954 !important;
+    font-weight: 650 !important;
+    border-radius: 10px !important;
+
+}
